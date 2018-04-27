@@ -1,4 +1,4 @@
-#Stable Marriage Problem
-*cd stable-marriage
-*make
-*./run
+# Stable Marriage Problem
+* cd stable-marriage
+* make
+* ./run
